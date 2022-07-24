@@ -2,3 +2,4 @@ Hola Jorge,
 se realiza la prueba de ejercicio de ramificación
 en Git
 SEGUN EL PUNTO 2
+ingresando trabajo colaborativo
